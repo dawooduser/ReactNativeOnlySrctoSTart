@@ -10,7 +10,16 @@ axios
 redux-persist-transform-encrypt
 react-native-mmkv
 
-npm install redux-persist react-redux @react-navigation/native @react-navigation/native-stack @react-navigation/bottom-tabs react-native-vector-icons axios @reduxjs/toolkit redux-persist-transform-encrypt react-native-mmkv
+
+npm install redux-persist-transform-encrypt react-native-mmkv
+npm install @reduxjs/toolkit
+npm install axios
+npm install react-native-vector-icons
+npm install react-native-toast-message
+npm install @react-navigation/native-stack
+npm install @react-navigation/native
+npm install react-native-permissions
+
 
 
 -------file start----------------
