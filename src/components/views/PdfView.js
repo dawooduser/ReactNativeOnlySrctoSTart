@@ -9,7 +9,7 @@ const PdfView = ({url = "http://samples.leanpub.com/thereactnativebook-sample.pd
         <View style={[styles.modalContainre, { height: SIZES.height - 100 }]}>
             <Pdf
                 trustAllCerts={false}
-                source={require("../../assets/InverexProductsDetail2024.pdf")}
+                source={{url}}
                 onLoadComplete={(numberOfPages, filePath) => {
                     console.log(`Number of pages: ${numberOfPages}`);
                 }}
