@@ -1,0 +1,31 @@
+react-redux
+redux-persist/integration/react
+@react-navigation/native
+@react-navigation/native-stack
+@react-navigation/bottom-tabs
+react-native-vector-icons
+axios
+@reduxjs/toolkit
+redux-persist-transform-encrypt
+react-native-mmkv
+
+
+-------file start----------------
+create file name at rool react-native.config.js
+inside 
+module.exports = {
+    dependencies: {
+        'react-native-vector-icons': {
+          platforms: {
+            ios: null,
+          },
+        },
+      },
+    project: {
+        ios: {},
+        android: {}
+    },
+    assets: ["./src/assets/fonts/"]
+};
+
+-------file end----------------
