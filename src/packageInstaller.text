@@ -24,6 +24,7 @@ npm install react-native-fast-image
 npm install react-native-gesture-handler
 npm install react-native-screens
 npm install react-native-size-matters
+npm install react-native-loading-spinner-overlay
 
 
 "android": "cd android && ./gradlew clean && cd .. && npx react-native run-android",
