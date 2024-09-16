@@ -19,6 +19,13 @@ npm install react-native-toast-message
 npm install @react-navigation/native-stack
 npm install @react-navigation/native
 npm install react-native-permissions
+npm install moment
+npm install react-native-fast-image
+npm install react-native-gesture-handler
+npm install react-native-screens
+npm install react-native-size-matters
+
+
 
 
 
