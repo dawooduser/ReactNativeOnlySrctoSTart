@@ -28,7 +28,7 @@ npm install react-native-loading-spinner-overlay
 npm install react-native-actionsheet
 npm install react-native-image-picker
 npm install react-native-pdf
-
+npm install google-libphonenumber
 
 "android": "cd android && ./gradlew clean && cd .. && npx react-native run-android",
     "buildAndroid": "cd android && ./gradlew clean && ./gradlew assembleRelease",
