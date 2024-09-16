@@ -10,6 +10,8 @@ axios
 redux-persist-transform-encrypt
 react-native-mmkv
 
+npm install redux-persist react-redux @react-navigation/native @react-navigation/native-stack @react-navigation/bottom-tabs react-native-vector-icons axios @reduxjs/toolkit redux-persist-transform-encrypt react-native-mmkv
+
 
 -------file start----------------
 create file name at rool react-native.config.js
