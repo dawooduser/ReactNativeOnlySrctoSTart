@@ -1,4 +1,5 @@
 react-redux
+redux-persist
 redux-persist/integration/react
 @react-navigation/native
 @react-navigation/native-stack
